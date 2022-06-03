@@ -1,4 +1,4 @@
-title: "María Lucía Arango Cortés"
+title: "MLAC"
 author: "María Lucía Arango Cortés"
 description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
@@ -16,8 +16,8 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", tittle: "About me", icon: home}
-  - {file: "README.md", tittle: "projects", icon: address-card}
+  - {file: "index.html"}
+  - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
