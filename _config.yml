@@ -23,7 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
   - {file: "awards.md", title: "Awards"}
 
-  - {file: "experience.md", title: "Expererience"}
+  - {file: "experience.md", title: "Experience"}
 
 
 
