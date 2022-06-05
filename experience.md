@@ -6,7 +6,8 @@ layout: page
 
 **Research Engineer (June 2016 – Currently)**
 Formulation and development of research projects in electronics and technology applied to the cardiovascular system and highly complex specialties. Involved in projects related to AI applied to cardiorespiratory information, prototyping of medical devices, medical image processing, 3D printing and VR for surgical planning.
-Main researcher of the project "FonoDX: technological system for the prevention, diagnosis and monitoring of heart failure secondary to valvular disease".
+
+Principal researcher of the project "FonoDX: technological system for the prevention, diagnosis and monitoring of heart failure secondary to valvular disease".
 
 **Stand exhibitor of the work “Virtual heart 4D experience”**
 
