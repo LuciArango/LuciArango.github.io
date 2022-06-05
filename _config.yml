@@ -16,15 +16,14 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-{file: "README.md", title: "Read me"}
 
-{file: "about.md", title: "About me"}
+  - {file: "about.md", title: "About me"}
 
-{file: "more.md", title: "Disclosure"}
+  - {file: "more.md", title: "Disclosure"}
 
-{file: "awards.md", title: "Awards"}
+  - {file: "awards.md", title: "Awards"}
 
-{file: "experience.md", title: "Expererience"}
+  - {file: "experience.md", title: "Expererience"}
 
 
 
