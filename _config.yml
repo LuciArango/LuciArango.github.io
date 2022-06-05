@@ -1,6 +1,6 @@
 title: "María Lucía Arango Cortés"
 author: "María Lucía Arango Cortés"
-description: "María Lucía Arango 2022 style=\"color: #f45;\">&lt;3</b>"
+description: "Last updated 2022 style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,8 +16,8 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "About me", icon: home}
-  - {file: "README.md"}
+  - {file: "index.html", title: "About me"}
+  - {file: "README.md", title: "More"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
