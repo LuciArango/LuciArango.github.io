@@ -1,101 +1,45 @@
 ---
-title: "About me"
-permalink: "/about/"
+title: "Publications, patents and conferences"
+permalink: "/more/"
 layout: page
 ---
+## Publications
 
-<img src="assets/Meditech_2018.jpg" width="150" height="280">
+Ayerbe, V., Morales, M., Rojas, C., & Cortés, M. (2020). Visualization of 3D Models Through Virtual Reality in the Planning of Congenital Cardiothoracic Anomalies Correction: An Initial Experience. World journal for pediatric & congenital heart surgery, 11(5), 627–629. https://doi.org/10.1177/2150135120923618
 
-I am a PhD candidate in Biosciences of the Universidad de La Sabana in Colombia. I am advised by [Luis Fernando Giraldo](https://scholar.google.com.co/citations?user=FFtAzBwAAAAJ&hl=en) in the adult medicine group and by [Oscar Julián Perdomo](https://pure.urosario.edu.co/en/persons/oscar-julian-perdomo-charry-3)  the School of Medicine and Health Sciences of the Universidad del Rosario. I also develop my research at the Research Direction of the Shaio Clinic Foundation in Colombia, where I support other projects related to the application of AI algorithms for cardiovascular data analysis and data processing from hardware devices.
+Latorre CJ, Arang ML, Nino LSP, Morales MLV, Herrera-Valenzuela DS, Ricardo FJN, et al. Pipeline of anatomical models generation. Experience of surgical planning and medical personal training by means of virtual environments and physical prototyping. Proc - 2020 IEEE Conf Virtual Real 3D User Interfaces, VRW 2020. 2020 Mar 1;142–6.
 
-My primary interests are in the application of artificial intelligence in hardware devices for the analysis of physiological variables of the cardiorespiratory system. In particular, I explore alternatives to implement intelligent algorithms to feedback medical devices align with the concept of personalized medicine. My goal is to develop a diaphragm electrical stimulation system controlled by chemical respiration variables, which uses AI to modulate the electrical pulses and provide the patient with more physiological ventilatory support.
+Reynolds, J., Forero, J., & Arango, M. (2017). Diaphragmatic pacemaker prototype with wireless communication. IFMBE Proceedings. https://doi.org/10.1007/978-981-10-4086-3_133
 
-## Features
 
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+## Patents
 
-## Based on
+Patent request [(WO2020217086)](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2020217086) `Guide and support for performing craniofacial punctions. 2019.`
+Patent request [(WO2021009546)](https://patentscope.wipo.int/search/es/detail.jsf?docId=WO21009546) `Nasal oxygen canula with device for measuring use time. 2019.`
 
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
 
-## Installation (jekyll-remote-theme method)
+## Conferences
 
-You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
+- Poster presentation at the 14° ALAT congress with the work: Effect of diaphragmatic stimulation compared with mechanical ventilation in adults and adolescents with diaphragmatic paresis. Systematic review
+Argentina (virtual
+December 2021
 
-```yaml
-remote_theme: niklasbuschmann/contrast@v2.11
+- Speaker at the Encuentro Internacional de Educación en Ingeniería ACOFI with the work: Diaphragmatic electrostimulator with automated control of minute ventilation to adjust it to the physiological needs of the patient.
+Cartagena, Colombia
+September 2021
 
-plugins:
-  - jekyll-remote-theme
-```
+- Stand exhibitor for the disclosure of research results at the ACC LATIN AMERICA CONFERENCE 2019
+Cartagena, Colombia
+Julio 2019
 
-Note: to enable icons you also need to copy over the `_data` folder.
+- Speaker at the Joint Meeting of ECHSA and WSPCHS with the work: Visualization of 3D models through virtual reality in the planning of congenital cardiothoracic anomalies correction. Initial experience.
+Sofía, Bulgaria
+Junio 2019
 
-## Config
+- Stand exhibitor at the IV National meeting of science, technology and innovation at the service of force.
+Militar school of NCO. Tolemaida, Colombia
+August 2017
 
-Your `_config.yml` could for example look like this:
-
-```yaml
-title: "Blog Title"
-author: "Blog Author"
-description: "My personal blog about ... something"
-permalink: /:title/
-lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
-
-# Layout
-
-show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-
-# Menu
-
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
-
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
-
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
-
-plugins:
- - jekyll-feed
-
-```
-
-## MathJax
-
-Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter.
-
-## License
-
-[public domain](http://unlicense.org/)
-
-## Screenshots
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431832-b6cac080-7a08-11eb-9c5e-a058680c23a1.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
+- Speaker at the VII Latin American Congress of biomedical engineer with the work: “Diaphragmatic pacemaker prototype with wireless communication” 
+Universidad autónoma de Bucaramanga. Bucaramanga, Colombia
+October 2016
