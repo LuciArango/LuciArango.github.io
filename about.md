@@ -8,6 +8,8 @@ layout: page
 
 Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
 
+![title](/assets/Meditech_2018.jpg))
+
 ## Features
 
  - supports dark mode on macOS Mojave
