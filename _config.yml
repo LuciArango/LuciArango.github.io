@@ -20,11 +20,15 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 {file: "about.md", title: "About me"}
 
-{file: "more.md", title: "Scientific disemination"}
+{file: "more.md", title: "Disclosure"}
 
 {file: "awards.md", title: "Awards"}
 
 {file: "experience.md", title: "Expererience"}
+
+
+
+
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:mariaaraco@unisabana.edu.co"}
