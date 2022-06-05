@@ -11,18 +11,23 @@ Main researcher of the project:
 **Stand exhibitor of the work “Virtual heart 4D experience”**
 Abbott. Barranquilla, Colombia.
 March 2018
+
 Abbott. Cartagena, Colombia.
 February 2018
 
 **Instructor of the workshop “I built my first pacemaker”**
 Sanofi Aventis. Cartagena, Colombia.
 November 2017
+
 Sanofi Aventis. Bogotá, Colombia.
 June 2017
+
 Abbott. Cartagena, Colombia.
 May 2017
+
 Abbott. Cartagena, Colombia.
 February 2017
+
 Sanofi Aventis. Armenia, Colombia.
 May 2016
 
