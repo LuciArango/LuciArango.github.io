@@ -16,7 +16,7 @@ Reynolds, J., Forero, J., & Arango, M. (2017). Diaphragmatic pacemaker prototype
 
 Patent request [(WO2020217086)](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2020217086) Guide and support for performing craniofacial punctions. 2019.
 
-Patent request [(WO2021009546)](https://patentscope.wipo.int/search/es/detail.jsf?docId=WO21009546) Nasal oxygen canula with device for measuring use time. 2019.
+Patent request [(WO2021009546)](https://patentscope.wipo.int/search/es/detail.jsf?docId=WO21009546) Nasal oxygen cannula with device for measuring use time. 2019.
 
 
 ## Conferences
