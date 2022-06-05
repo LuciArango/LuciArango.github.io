@@ -10,7 +10,7 @@ I am a PhD candidate in Biosciences of the Universidad de La Sabana in Colombia.
 
 My primary interests are in the application of artificial intelligence in hardware devices for the analysis of physiological variables of the cardiorespiratory system. In particular, I explore alternatives to implement intelligent algorithms to feedback medical devices align with the concept of personalized medicine. My goal is to develop a diaphragm electrical stimulation system controlled by chemical respiration variables, which uses AI to modulate the electrical pulses and provide the patient with more physiological ventilatory support.
 
-<img src="assets/Meditech_2018.jpg" alt="Image description">
+<img src="assets/Meditech_2018.jpg" width=50% height=50%>
 
 ## Features
 
