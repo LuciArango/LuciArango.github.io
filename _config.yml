@@ -16,11 +16,15 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "README.md", title: "Read me"}
-  - {file: "about.md", title: "About me"}
-  - {file: "more.md", title: "Scientific disemination"}
-  - {file: "awards.md", title: "Awards"}
-  - {file: "experience.md", title: "Expererience"}
+{file: "README.md", title: "Read me"}
+
+{file: "about.md", title: "About me"}
+
+{file: "more.md", title: "Scientific disemination"}
+
+{file: "awards.md", title: "Awards"}
+
+{file: "experience.md", title: "Expererience"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:mariaaraco@unisabana.edu.co"}
