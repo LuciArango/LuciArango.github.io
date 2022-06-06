@@ -38,7 +38,7 @@ Sofía, Bulgaria
 Junio 2019
 
 - Stand exhibitor at the IV National meeting of science, technology and innovation at the service of force.
-Militar school of NCO. Tolemaida, Colombia
+Escuela Militar de Suboficiales de Colombia. Tolemaida, Colombia
 August 2017
 
 - Speaker at the VII Latin American Congress of biomedical engineer with the work: “Diaphragmatic pacemaker prototype with wireless communication” 
