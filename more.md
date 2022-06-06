@@ -25,7 +25,7 @@ Patent request [(WO2021009546)](https://patentscope.wipo.int/search/es/detail.js
 
 - Speaker at the Encuentro Internacional de Educación en Ingeniería ACOFI with the work: Diaphragmatic electrostimulator with automated control of minute ventilation to adjust it to the physiological needs of the patient. Cartagena, Colombia. September 2021
 
-- Stand exhibitor for the disclosure of research results at the ACC LATIN AMERICA CONFERENCE 2019. Cartagena, Colombia.Julio 2019
+- Stand exhibitor for the disclosure of research results at the ACC LATIN AMERICA CONFERENCE 2019. Cartagena, Colombia. Julio 2019
 
 - Speaker at the Joint Meeting of ECHSA and WSPCHS with the work: Visualization of 3D models through virtual reality in the planning of congenital cardiothoracic anomalies correction. Initial experience. Sofía, Bulgaria. Junio 2019
 
