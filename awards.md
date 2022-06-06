@@ -1,5 +1,5 @@
 ---
-title: "Awards"
+title: "Awards and Grants"
 permalink: "/awards/"
 layout: page
 ---
