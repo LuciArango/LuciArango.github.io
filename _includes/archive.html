@@ -2,6 +2,13 @@
   <header><h1>{{ include.title | default: page.title }}</h1></header>
   <ul class="archive">   
       <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>    
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    <p>I am a PhD candidate in biosciences at Universidad de La Sabana in Colombia. 
+      I am advised by Luis Fernando Giraldo in the adult medicine group and by Oscar Julián Perdomo 
+      in the Faculty of Medicine and Health Sciences at Universidad del Rosario. I also develop my 
+      research in the Research Direction of Fundación Clínica Shaio in Colombia, where I support other 
+      projects related to the application of AI algorithms for cardiovascular data analysis and data 
+      processing from hardware devices.
+    </p>
   </ul>
 </article>
