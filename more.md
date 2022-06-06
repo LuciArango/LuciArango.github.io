@@ -21,26 +21,16 @@ Patent request [(WO2021009546)](https://patentscope.wipo.int/search/es/detail.js
 
 ## Conferences
 
-- Poster presentation at the 14° ALAT congress with the work: Effect of diaphragmatic stimulation compared with mechanical ventilation in adults and adolescents with diaphragmatic paresis. Systematic review
-Argentina (virtual
-December 2021
+- Poster presentation at the 14° ALAT congress with the work: Effect of diaphragmatic stimulation compared with mechanical ventilation in adults and adolescents with diaphragmatic paresis. Systematic review. Argentina (virtual). December 2021
 
-- Speaker at the Encuentro Internacional de Educación en Ingeniería ACOFI with the work: Diaphragmatic electrostimulator with automated control of minute ventilation to adjust it to the physiological needs of the patient.
-Cartagena, Colombia
-September 2021
+- Speaker at the Encuentro Internacional de Educación en Ingeniería ACOFI with the work: Diaphragmatic electrostimulator with automated control of minute ventilation to adjust it to the physiological needs of the patient. Cartagena, Colombia. September 2021
 
-- Stand exhibitor for the disclosure of research results at the ACC LATIN AMERICA CONFERENCE 2019
-Cartagena, Colombia
-Julio 2019
+- Stand exhibitor for the disclosure of research results at the ACC LATIN AMERICA CONFERENCE 2019. Cartagena, Colombia.Julio 2019
 
-- Speaker at the Joint Meeting of ECHSA and WSPCHS with the work: Visualization of 3D models through virtual reality in the planning of congenital cardiothoracic anomalies correction. Initial experience.
-Sofía, Bulgaria
-Junio 2019
+- Speaker at the Joint Meeting of ECHSA and WSPCHS with the work: Visualization of 3D models through virtual reality in the planning of congenital cardiothoracic anomalies correction. Initial experience. Sofía, Bulgaria. Junio 2019
 
 - Stand exhibitor at the IV National meeting of science, technology and innovation at the service of force.
-Escuela Militar de Suboficiales de Colombia. Tolemaida, Colombia
-August 2017
+Escuela Militar de Suboficiales de Colombia. Tolemaida, Colombia. August 2017
 
 - Speaker at the VII Latin American Congress of biomedical engineer with the work: “Diaphragmatic pacemaker prototype with wireless communication” 
-Universidad autónoma de Bucaramanga. Bucaramanga, Colombia
-October 2016
+Universidad autónoma de Bucaramanga. Bucaramanga, Colombia. October 2016
